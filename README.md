@@ -1,1 +1,1 @@
-# COVID_19_SIR_Model_Estimation
+# COVID_19 SIR Model Estimation
